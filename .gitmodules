@@ -1,0 +1,8 @@
+[submodule "indigoclient"]
+	path = indigoclient
+	url = git@github.com:indigo-dc/indigoclient.git
+	branch = develop
+[submodule "indigokepler"]
+	path = indigokepler
+	url = git@github.com:indigo-dc/indigokepler.git
+	branch = develop
