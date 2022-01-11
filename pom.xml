@@ -13,7 +13,7 @@
   </modules>
 
   <properties>
-    <batik.version>1.7</batik.version>
+    <batik.version>1.14</batik.version>
     <!-- required by Kepler -->
     <jackson.version>2.10.0.pr1</jackson.version>
     <powermock.version>1.7.4</powermock.version>
